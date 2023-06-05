@@ -489,7 +489,7 @@ document.writeln("Le nom du 1er personne est:  " +persons.p1.name);   //Alex
 document.writeln("Le nom du 2éme personne est: " + persons.p2.name);   //Emily
 ``` 
 
-![Json, Javascript](/assets/images/JS-Json.png)
+![Logo, Javascript](/assets/images/JS-Logo-1.png) 
 
 ### ARRAY METHODS
 // Array iteration: 8 methods
@@ -560,7 +560,7 @@ const foundIndex = objects2.findIndex(function (item) {
 console.log(foundIndex)
 ```
 
-![Json, Javascript](/assets/images/JS-Json.png)
+![Logo, Javascript](/assets/images/JS-Logo-1.png) 
 ```
 // switch case
 const expr = 'Papayas';
